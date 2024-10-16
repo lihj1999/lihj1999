@@ -23,8 +23,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihj1999&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,html,md,matlab&theme=light" />
-<a href="https://pytorch.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
+<img align="center" src="https://skillicons.dev/icons?i=py,html,md,matlab，pytorch，Huggingface&theme=light" />
 </p>
 
 <!-- https://github.com/badges/shields -->

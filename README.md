@@ -28,6 +28,7 @@
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/lihj1999"><img src="https://img.shields.io/badge/GitHub-lihj1999-blue?logo=github" /></a>
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
 <img src="https://img.shields.io/badge/QQ-3104623778-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=lihj1999&abbreviated=true&color=yellow" />

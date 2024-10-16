@@ -13,7 +13,7 @@
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=lihj1999&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=lihj1999&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
+
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=lihj1999&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
@@ -24,6 +24,7 @@
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,html,md,matlab&theme=light" />
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
 </p>
 
 <!-- https://github.com/badges/shields -->
